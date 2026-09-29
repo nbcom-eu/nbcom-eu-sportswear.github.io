@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="700" height="700" viewBox="0 0 256 256">
+    <defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#5bc0eb"/><stop offset="1" stop-color="#ffffff" stop-opacity=".82"/></linearGradient></defs>
+    <rect width="256" height="256" rx="28" fill="#0b132b"/>
+    <circle cx="206" cy="46" r="54" fill="#5bc0eb" opacity=".12"/><circle cx="44" cy="216" r="74" fill="#5bc0eb" opacity=".10"/>
+    <g fill="url(#g)"><path d="M104 76q24-26 48 0l-4 28 34 14 26 116-42 10-12-66v76H102v-76l-12 66-42-10 26-116 34-14Z"/></g>
+    <text x="18" y="232" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700" fill="white" opacity=".84">NBCOM • EU</text>
+    </svg>
